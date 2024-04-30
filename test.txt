@@ -1,6 +1,0 @@
-test file
-추가 내용 합니다.
-사과 바나나
-푸시 합니다.
-Jinco test
-new test11
